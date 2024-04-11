@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sharad
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning PHP
+- 🌱 I’m currently learning React/Node Js
 - 💞️ I’m looking to collaborate on back-end web projects
 - 📫 How to reach me -> sharadshrestha20581@gmail.com
 
