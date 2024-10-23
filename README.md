@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [anonymous_messaging](https://github.com/sharad-ritu/anonymous_messaging)
 
-- 🌱 I’m currently learning **React, Next.js, Redux, docker**
+- 🌱 I’m currently learning **Next.js, Docker**
 
 - 📫 How to reach me **sharadshrestha20581@gmail.com**
 
