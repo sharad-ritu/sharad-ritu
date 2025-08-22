@@ -18,7 +18,7 @@
 
 ###
 
-<h4 align="left">My name is Sharad Shrestha.<br><br>🇳🇵 Full Stack Developer from Nepal with 1.5+ years of experience<br>🧑‍💻 Working with TypeScript, React, Next.js, Node.js, and Flutter  <br>🌐 Exploring modern development practices, Docker, CI/CD, deployment, performance, and scaling<br>📚 Passionate about clean code, learning new technologies, and building scalable products  <br>🎮 Currently playing Red Dead Redemption 2 🤠</h4>
+<h4 align="left">My name is Sharad Shrestha.<br><br>🇳🇵 Full Stack Developer from Nepal with 1.5+ years of experience<br>🧑‍💻 Working with TypeScript, React, Next.js, Node.js, and Flutter  <br>🌐 Exploring modern development practices, Docker, CI/CD, deployment, performance, and scaling<br>📚 Passionate about clean code, learning new technologies, and building scalable products
 
 ###
 
