@@ -4,10 +4,10 @@
 
 <div align="center">
   <a href="https://x.com/sharadbaucha" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="42" height="30" alt="twitter logo"  />
+    <img src="https://cdn.simpleicons.org/x/000000" width="42" height="30" alt="X logo" />
   </a>
   <a href="https://www.linkedin.com/in/sharad-shrestha-1554211a3/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="42" height="30" alt="linkedin logo"  />
+    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="42" height="30" alt="linkedin logo" />
   </a>
 </div>
 
