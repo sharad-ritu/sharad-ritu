@@ -1,74 +1,54 @@
-<h2 align="center">Hi there 👋</h2>
-
-###
-
 <div align="center">
-  <a href="https://x.com/sharadbaucha" target="_blank">
-    <img
-      src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg"
-      width="42"
-      height="30"
-      alt="twitter logo"
-    />
-  </a>
 
-  <a href="https://www.linkedin.com/in/sharad-shrestha-1554211a3/" target="_blank">
-    <img
-      src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg"
-      width="42"
-      height="30"
-      alt="linkedin logo"
-    />
-  </a>
+# Sharad Shrestha
+
+### Full-Stack Developer · Web & Mobile
+
+I build thoughtful, reliable products from interface to infrastructure.
+
+<a href="https://www.linkedin.com/in/sharad-shrestha-1554211a3/" title="LinkedIn"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="22" alt="LinkedIn" /></a>
+&nbsp;&nbsp;
+<a href="https://x.com/sharadbaucha" title="X"><img src="https://cdn.simpleicons.org/x/888888" width="22" alt="X" /></a>
+&nbsp;&nbsp;
+<a href="mailto:sharadshrestha20581@gmail.com" title="Email"><img src="https://cdn.simpleicons.org/gmail/EA4335" width="22" alt="Email" /></a>
+
 </div>
 
-###
+<br />
 
-<h3 align="left">👩‍💻  About Me</h3>
+## About
 
-###
+Full-stack developer based in Kathmandu, Nepal, with 2+ years of experience shipping production web and mobile applications. I enjoy turning complex requirements into simple experiences, dependable APIs, and maintainable systems.
 
-<h4 align="left">My name is Sharad Shrestha.<br><br>🇳🇵 Full Stack Developer from Nepal with 1.5+ years of experience<br>🧑‍💻 Working with TypeScript, React, Next.js, Node.js, and Flutter  <br>🌐 Exploring modern development practices, Docker, CI/CD, deployment, performance, and scaling<br>📚 Passionate about clean code, learning new technologies, and building scalable products
+## Stack
 
-###
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ts,react,nextjs,nodejs,express,postgres,prisma,tailwind,flutter,dart,docker,githubactions&perline=12" alt="TypeScript, React, Next.js, Node.js, Express, PostgreSQL, Prisma, Tailwind CSS, Flutter, Dart, Docker, and GitHub Actions" />
+</p>
 
-<h3 align="left">🛠 Language and tools</h3>
+## Selected work
 
-###
+**NextTherapist**<br />
+A therapist–patient platform with Stripe payments, appointment management, and Google and Microsoft calendar synchronization.
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="50" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="50" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="50" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="50" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="50" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="50" alt="dart logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="50" alt="flutter logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg" height="50" alt="sequelize logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=prisma" height="50" alt="prisma logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/mocha/8D6748" height="50" alt="mocha logo"  />
-</div>
+`React` `Node.js` `PostgreSQL` `Stripe`
 
-###
+---
 
-<h3 align="left">🔥   My Stats :</h3>
+**eticketnepal**<br />
+An event and venue platform featuring Khalti and Connect IPS payment integrations, flight booking, administration tools, and a mobile QR ticket scanner.
 
-###
+`Next.js` `Node.js` `PostgreSQL` `Flutter` `Khalti` `Connect IPS`
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sharad-ritu&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph" /> <br>
-  <img src="https://streak-stats.demolab.com?user=sharad-ritu&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
+---
 
-###
+**Neplify**<br />
+Web and mobile applications with real-time messaging, media sharing, and push notifications.
+
+`React` `Flutter` `Socket.IO` `Firebase`
+
+<br />
+
+<p align="center">
+  <sub>Open to building useful products and solving interesting problems.</sub>
+</p>
