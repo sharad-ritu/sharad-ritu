@@ -1,62 +1,23 @@
-<img src="assets/header.svg" width="100%" alt="Sharad Shrestha. Full-stack developer based in Kathmandu, Nepal." />
+<img src="assets/header.svg" width="100%" alt="Sharad Shrestha (शरद श्रेष्ठ). Full-stack developer, Kathmandu." />
 
-<p align="center">
-  <a href="https://www.sharad-shrestha.com.np/"><img src="assets/portfolio.svg" width="112" alt="Portfolio" /></a>
-  <a href="https://www.linkedin.com/in/sharad-shrestha-1554211a3/"><img src="assets/linkedin.svg" width="112" alt="LinkedIn" /></a>
-  <a href="mailto:sharadshrestha20581@gmail.com"><img src="assets/email.svg" width="112" alt="Email" /></a>
+<p>
+<a href="https://www.sharad-shrestha.com.np/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/link-portfolio-dark.svg"><img src="assets/link-portfolio-light.svg" alt="Portfolio" height="40"></picture></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/sharad-shrestha-1554211a3/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/link-linkedin-dark.svg"><img src="assets/link-linkedin-light.svg" alt="LinkedIn" height="40"></picture></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="mailto:sharadshrestha20581@gmail.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/link-email-dark.svg"><img src="assets/link-email-light.svg" alt="Email" height="40"></picture></a>
 </p>
 
-# Hi, I'm Sharad.
+I build web and mobile products end to end: the screens people use, the APIs behind them, and the databases underneath. I've spent 2+ years shipping production apps from Kathmandu.
 
-I'm a full-stack developer in Kathmandu, Nepal, with **2+ years of experience** building production web and mobile applications. I build interfaces, APIs, and the systems behind them.
+<br />
 
-## My toolkit
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/toolkit-dark.svg"><img src="assets/toolkit-light.svg" alt="Toolkit. Interfaces: TypeScript, React, Next.js, Tailwind CSS. Servers: Node.js, Express, PostgreSQL, Prisma. Mobile: Flutter, Dart. Delivery: Docker, GitHub Actions." width="100%"></picture>
 
-<table align="center">
-  <tr>
-    <td align="center" width="150"><img src="assets/icons/typescript.svg" width="42" height="42" alt="TypeScript" /><br /><sub>TypeScript</sub></td>
-    <td align="center" width="150"><img src="assets/icons/react.svg" width="42" height="42" alt="React" /><br /><sub>React</sub></td>
-    <td align="center" width="150"><img src="assets/icons/nextjs.svg" width="42" height="42" alt="Next.js" /><br /><sub>Next.js</sub></td>
-    <td align="center" width="150"><img src="assets/icons/tailwindcss.svg" width="42" height="42" alt="Tailwind CSS" /><br /><sub>Tailwind CSS</sub></td>
-  </tr>
-  <tr>
-    <td align="center" width="150"><img src="assets/icons/nodejs.svg" width="42" height="42" alt="Node.js" /><br /><sub>Node.js</sub></td>
-    <td align="center" width="150"><img src="assets/icons/express.svg" width="42" height="42" alt="Express" /><br /><sub>Express</sub></td>
-    <td align="center" width="150"><img src="assets/icons/postgresql.svg" width="42" height="42" alt="PostgreSQL" /><br /><sub>PostgreSQL</sub></td>
-    <td align="center" width="150"><img src="assets/icons/prisma.svg" width="42" height="42" alt="Prisma" /><br /><sub>Prisma</sub></td>
-  </tr>
-  <tr>
-    <td align="center" width="150"><img src="assets/icons/flutter.svg" width="42" height="42" alt="Flutter" /><br /><sub>Flutter</sub></td>
-    <td align="center" width="150"><img src="assets/icons/dart.svg" width="42" height="42" alt="Dart" /><br /><sub>Dart</sub></td>
-    <td align="center" width="150"><img src="assets/icons/docker.svg" width="42" height="42" alt="Docker" /><br /><sub>Docker</sub></td>
-    <td align="center" width="150"><img src="assets/icons/githubactions.svg" width="42" height="42" alt="GitHub Actions" /><br /><sub>GitHub Actions</sub></td>
-  </tr>
-</table>
+<br />
 
-## Selected work
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/work-dark.svg"><img src="assets/work-light.svg" alt="Selected work. NextTherapist: a therapist and patient platform with Stripe payments, appointment management, and Google and Microsoft calendar sync. eticketnepal: an event and venue platform with Khalti and Connect IPS payments, flight booking, admin tools, and a mobile QR ticket scanner. Neplify: web and mobile apps with real-time messaging, media sharing, and push notifications." width="100%"></picture>
 
-<img src="assets/nexttherapist.svg" width="100%" alt="NextTherapist. Care, scheduling, and payments." />
+<br /><br />
 
-A therapist and patient platform with Stripe payments, appointment management, and Google and Microsoft calendar synchronization.
+<a href="mailto:sharadshrestha20581@gmail.com"><img src="assets/footer.svg" width="100%" alt="Have a product in mind? Let’s build it. Write to sharadshrestha20581@gmail.com" /></a>
 
-`React` `Node.js` `PostgreSQL` `Stripe`
-
-<img src="assets/eticketnepal.svg" width="100%" alt="eticketnepal. Events, travel, and digital tickets." />
-
-An event and venue platform with Khalti and Connect IPS payments, flight booking, administration tools, and a mobile QR ticket scanner.
-
-`Next.js` `Node.js` `PostgreSQL` `Flutter` `Khalti` `Connect IPS`
-
-<img src="assets/neplify.svg" width="100%" alt="Neplify. Messaging, media, and notifications." />
-
-Web and mobile applications with real-time messaging, media sharing, and push notifications.
-
-`React` `Flutter` `Socket.IO` `Firebase`
-
----
-
-<p align="center">
-  Have a product in mind? <a href="mailto:sharadshrestha20581@gmail.com"><strong>Let's build it.</strong></a>
-</p>
-
-<!-- Technology icons: Devicon v2.17.0. License included in assets/icons/LICENSE.devicon. -->
+<!-- Pattern: Dhaka weave in the colours of the Nepal flag. Type: Anybody and Tiro Devanagari Hindi (SIL OFL). Icons: Simple Icons (CC0). -->

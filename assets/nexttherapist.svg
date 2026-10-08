@@ -1,9 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="720" height="124" viewBox="0 0 720 124" role="img" aria-labelledby="title">
- <title id="title">NextTherapist. Care, scheduling &amp; payments</title>
- <rect width="720" height="124" rx="14" fill="#292447"/>
- <rect x="23" y="23" width="78" height="78" rx="19" fill="#BDA8F5" fill-opacity=".13"/>
- <g transform="translate(30 29)" stroke="#BDA8F5" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" fill="none"><rect x="10" y="14" width="44" height="40" rx="6"/><path d="M10 27H54M22 8V19M42 8V19"/><path d="M23 40L29 46L42 33"/></g>
- <g font-family="Arial, Helvetica, sans-serif"><text x="126" y="55" font-size="36" font-weight="700" fill="#F6F5FF">NextTherapist</text><text x="127" y="88" font-size="20" fill="#BDA8F5">Care, scheduling &amp; payments</text></g>
- <g fill="none" stroke="#BDA8F5" stroke-opacity=".2" stroke-width="1.5"><circle cx="616" cy="62" r="42"/><circle cx="616" cy="62" r="65"/><circle cx="616" cy="62" r="88"/></g>
- <g transform="translate(584 30)" stroke="#BDA8F5" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" fill="none" opacity=".65"><rect x="10" y="14" width="44" height="40" rx="6"/><path d="M10 27H54M22 8V19M42 8V19"/><path d="M23 40L29 46L42 33"/></g>
- </svg>

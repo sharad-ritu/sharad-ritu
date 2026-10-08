@@ -1,9 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="720" height="124" viewBox="0 0 720 124" role="img" aria-labelledby="title">
- <title id="title">Neplify. Messaging, media &amp; notifications</title>
- <rect width="720" height="124" rx="14" fill="#38293F"/>
- <rect x="23" y="23" width="78" height="78" rx="19" fill="#F0B7CD" fill-opacity=".13"/>
- <g transform="translate(30 29)" stroke="#F0B7CD" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" fill="none"><path d="M10 13H54V44H30L18 54V44H10Z"/><path d="M20 24H44M20 33H36"/></g>
- <g font-family="Arial, Helvetica, sans-serif"><text x="126" y="55" font-size="36" font-weight="700" fill="#F6F5FF">Neplify</text><text x="127" y="88" font-size="20" fill="#F0B7CD">Messaging, media &amp; notifications</text></g>
- <g fill="none" stroke="#F0B7CD" stroke-opacity=".2" stroke-width="1.5"><circle cx="616" cy="62" r="42"/><circle cx="616" cy="62" r="65"/><circle cx="616" cy="62" r="88"/></g>
- <g transform="translate(584 30)" stroke="#F0B7CD" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" fill="none" opacity=".65"><path d="M10 13H54V44H30L18 54V44H10Z"/><path d="M20 24H44M20 33H36"/></g>
- </svg>
