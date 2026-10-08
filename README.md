@@ -1,54 +1,49 @@
-<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="assets/header-light.svg" />
+  <img src="assets/header-light.svg" alt="Sharad Shrestha. Full-stack developer for web and mobile." width="100%" />
+</picture>
 
-# Sharad Shrestha
-
-### Full-Stack Developer · Web & Mobile
-
-I build thoughtful, reliable products from interface to infrastructure.
-
-<a href="https://www.linkedin.com/in/sharad-shrestha-1554211a3/" title="LinkedIn"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="22" alt="LinkedIn" /></a>
-&nbsp;&nbsp;
-<a href="https://x.com/sharadbaucha" title="X"><img src="https://cdn.simpleicons.org/x/888888" width="22" alt="X" /></a>
-&nbsp;&nbsp;
-<a href="mailto:sharadshrestha20581@gmail.com" title="Email"><img src="https://cdn.simpleicons.org/gmail/EA4335" width="22" alt="Email" /></a>
-
-</div>
-
-<br />
-
-## About
-
-Full-stack developer based in Kathmandu, Nepal, with 2+ years of experience shipping production web and mobile applications. I enjoy turning complex requirements into simple experiences, dependable APIs, and maintainable systems.
-
-## Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,react,nextjs,nodejs,express,postgres,prisma,tailwind,flutter,dart,docker,githubactions&perline=12" alt="TypeScript, React, Next.js, Node.js, Express, PostgreSQL, Prisma, Tailwind CSS, Flutter, Dart, Docker, and GitHub Actions" />
+<p>
+  <a href="https://www.sharad-shrestha.com.np/">Portfolio</a> &nbsp; / &nbsp;
+  <a href="https://www.linkedin.com/in/sharad-shrestha-1554211a3/">LinkedIn</a> &nbsp; / &nbsp;
+  <a href="https://x.com/sharadbaucha">X</a> &nbsp; / &nbsp;
+  <a href="mailto:sharadshrestha20581@gmail.com">Email</a>
 </p>
+
+# Hi, I'm Sharad.
+
+I'm a full-stack developer based in Kathmandu, Nepal, with 2+ years of experience building production web and mobile applications. I work across interfaces, APIs, and databases, with a focus on products that are straightforward to use and maintain.
 
 ## Selected work
 
-**NextTherapist**<br />
-A therapist–patient platform with Stripe payments, appointment management, and Google and Microsoft calendar synchronization.
+### NextTherapist
 
-`React` `Node.js` `PostgreSQL` `Stripe`
+A therapist and patient platform with Stripe payments, appointment management, and Google and Microsoft calendar synchronization.
 
----
+<sub>React &nbsp; · &nbsp; Node.js &nbsp; · &nbsp; PostgreSQL &nbsp; · &nbsp; Stripe</sub>
 
-**eticketnepal**<br />
-An event and venue platform featuring Khalti and Connect IPS payment integrations, flight booking, administration tools, and a mobile QR ticket scanner.
+### eticketnepal
 
-`Next.js` `Node.js` `PostgreSQL` `Flutter` `Khalti` `Connect IPS`
+An event and venue platform with Khalti and Connect IPS payments, flight booking, administration tools, and a mobile QR ticket scanner.
 
----
+<sub>Next.js &nbsp; · &nbsp; Node.js &nbsp; · &nbsp; PostgreSQL &nbsp; · &nbsp; Flutter &nbsp; · &nbsp; Khalti &nbsp; · &nbsp; Connect IPS</sub>
 
-**Neplify**<br />
+### Neplify
+
 Web and mobile applications with real-time messaging, media sharing, and push notifications.
 
-`React` `Flutter` `Socket.IO` `Firebase`
+<sub>React &nbsp; · &nbsp; Flutter &nbsp; · &nbsp; Socket.IO &nbsp; · &nbsp; Firebase</sub>
 
-<br />
+## Tools I work with
 
-<p align="center">
-  <sub>Open to building useful products and solving interesting problems.</sub>
-</p>
+| Area | Stack |
+| :--- | :--- |
+| Web | TypeScript, React, Next.js, Tailwind CSS |
+| Backend | Node.js, Express, PostgreSQL, Prisma |
+| Mobile | Flutter, Dart |
+| Delivery | Docker, GitHub Actions |
+
+---
+
+Have a product in mind? [Let's talk.](mailto:sharadshrestha20581@gmail.com)
