@@ -17,6 +17,10 @@ I build web and mobile products end to end: the screens people use, the APIs beh
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/work-dark.svg"><img src="assets/work-light.svg" alt="Selected work. NextTherapist: a therapist and patient platform with Stripe payments, appointment management, and Google and Microsoft calendar sync. eticketnepal: an event and venue platform with Khalti and Connect IPS payments, flight booking, admin tools, and a mobile QR ticket scanner. Neplify: web and mobile apps with real-time messaging, media sharing, and push notifications." width="100%"></picture>
 
+- NextTherapist: [Website](https://nexttherapist.com/)
+- eticketnepal: [Website](https://eticketnepal.com/)
+- Neplify: [Website](https://neplify.com/) · [App Store](https://apps.apple.com/us/app/neplify/id6757994067) · [Google Play](https://play.google.com/store/apps/details?id=com.neplify.neplify)
+
 <br /><br />
 
 <a href="mailto:sharadshrestha20581@gmail.com"><img src="assets/footer.svg" width="100%" alt="Have a product in mind? Let’s build it. Write to sharadshrestha20581@gmail.com" /></a>
