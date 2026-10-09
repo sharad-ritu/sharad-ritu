@@ -3,6 +3,7 @@
 <p>
 <a href="https://www.sharad-shrestha.com.np/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/link-portfolio-dark.svg"><img src="assets/link-portfolio-light.svg" alt="Portfolio" height="40"></picture></a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/sharad-shrestha-1554211a3/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/link-linkedin-dark.svg"><img src="assets/link-linkedin-light.svg" alt="LinkedIn" height="40"></picture></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://x.com/sharadriitu"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/link-x-dark.svg"><img src="assets/link-x-light.svg" alt="X" height="40"></picture></a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="mailto:sharadshrestha20581@gmail.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/link-email-dark.svg"><img src="assets/link-email-light.svg" alt="Email" height="40"></picture></a>
 </p>
 
